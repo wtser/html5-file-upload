@@ -1,0 +1,13 @@
+{
+  "name": "html5-file-upload",
+  "homepage": "https://github.com/wtser/html5-file-upload",
+  "_release": "96f5943bca",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "96f5943bca75e62cbda67672646c146ebd9fbdf3"
+  },
+  "_source": "https://github.com/wtser/html5-file-upload.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/wtser/html5-file-upload.git"
+}
